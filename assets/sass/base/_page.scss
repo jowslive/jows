@@ -1,0 +1,27 @@
+
+
+/* Básico */
+
+		@-ms-viewport {
+			width: device-width;
+		}
+
+		@include breakpoint(xsmall) {
+			html, body {
+				min-width: 320px;
+			}
+		}
+
+	body {
+		background: _palette(bg);
+        
+			&.is-loading,
+			&.is-switching {
+				*, *:before, *:after {
+					@include vendor('animation', 'none !important');
+					@include vendor('transition', 'none !important');
+					@include vendor('transition-delay', 'none !important');
+				}
+			}
+
+	}
