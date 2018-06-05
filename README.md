@@ -1,2 +1,2 @@
-# Site de portfólio feito para aprendizagem
+# Site de portfólio - Estudos
 Porfólio Jows
