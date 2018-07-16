@@ -1,2 +1,9 @@
+<div align="center">
+	<p>
+		<img src="https://i.imgur.com/TsYhreg.png" />
+	</p>
+</div>
+
 # Site de portfólio - Estudos
-Porfólio Jows
+
+## Introdução / Trabalhos / Sobre / Social
