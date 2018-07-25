@@ -6,4 +6,4 @@
 
 # Site de portfólio - Estudos
 
-## Introdução / Trabalhos / Sobre / Social
+## Introdução / Trabalhos / Sobre / Social / Currículo
