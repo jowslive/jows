@@ -449,8 +449,9 @@ hr {
 
 .image.fit {
     display: block;
-    margin: -0.65rem 0 0 -0.19rem;
-    width: 107%;
+    margin: -0.58rem 0 0rem -0.15rem;
+    width: 106%;
+    padding-top: 0.4%;
 }
 
 .image.fit img {
