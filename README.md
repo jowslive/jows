@@ -1,6 +1,6 @@
 <div align="center">
 	<p>
-		<img src="https://i.imgur.com/TsYhreg.png" />
+		<a href="https://jowslive.github.io/jows/"><img src="https://i.imgur.com/TsYhreg.png" /></a>
 	</p>
 </div>
 
