@@ -465,6 +465,7 @@ hr {
 
 .image.main img {
     width: 100%;
+    height: 32vh;
 }
 
 @media screen and (max-width: 736px) {
