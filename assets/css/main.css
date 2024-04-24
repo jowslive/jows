@@ -994,7 +994,7 @@ body.is-loading #bg:before {
     -ms-transition: opacity 0.325s ease-in-out;
     transition: opacity 0.325s ease-in-out;
     position: relative;
-    margin-top: 3.5rem;
+    margin-top: 3.6rem;
 }
 
 #header > *:before {
@@ -1009,7 +1009,7 @@ body.is-loading #bg:before {
 }
 
 #header >:first-child {
-    margin-top: 0;
+    margin-top: -5rem;
 }
 
 #header >:first-child:before {
