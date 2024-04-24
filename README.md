@@ -4,6 +4,6 @@
 	</p>
 </div>
 
-# Site de portfólio - Estudos
+# Site simples
 
-## Introdução / Trabalhos / Sobre / Social / Currículo
+## Introdução / Trabalho / Sobre / Social / Currículo
