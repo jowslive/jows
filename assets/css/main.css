@@ -108,7 +108,6 @@ section {
 
 body {
     line-height: 1;
-    overflow: hidden;
 }
 
 ol,
@@ -1336,7 +1335,6 @@ body.is-loading #header .content .inner {
     transition: transform 0.325s ease-in-out, filter 0.325s ease-in-out, opacity 0.325s ease-in-out;
     width: 100%;
     max-width: 100%;
-    margin-top: 2rem;
     text-align: center;
 }
 
@@ -1368,4 +1366,26 @@ body.is-article-visible #footer {
 
 body.is-loading #footer {
     opacity: 0;
+}
+
+/* Scroolbar */
+
+#style-1::-webkit-scrollbar-track
+{
+    -webkit-box-shadow: inset 0 0 6px rgba(0,0,0,0.3);
+    border-radius: 10px;
+    background-color: black;
+}
+
+#style-1::-webkit-scrollbar
+{
+    width: 12px;
+    background-color: black;
+}
+
+#style-1::-webkit-scrollbar-thumb
+{
+    border-radius: 10px;
+    -webkit-box-shadow: inset 0 0 6px rgba(0,0,0,.3);
+    background-color: #555;
 }
